@@ -88,27 +88,17 @@ Our next milestone is [Hard Fork 3](https://gitlab.com/blurt/blurt/-/milestones/
 
 ## Exchange Listings
 
-- [Beldex.io](https://www.beldex.io/tradeAdvance?pair=BLURT_BTC)
-- [Ionomy.com](https://ionomy.com/en/markets/btc-blurt)
 - [Hive-engine.com](https://hive-engine.com/?p=market&t=BLURT)
-- [Leodex.io](https://leodex.io/market/BLURT)
-- [Probit.com](https://www.probit.com/app/exchange/BLURT-BTC)
-- [Steem-engine.com](https://steem-engine.com/?p=market&t=BLURT)
-- [Stex.com](https://app.stex.com/en/trade/pair/BTC/BLURT/1D)
-- [Swaptoken.com](https://swaptoken.com/)
+- [BeeSwap](https://beeswap.dcity.io/swap?input=SWAP.HIVE&output=SWAP.BLURT)
+- [TRIBALDEX](https://tribaldex.com/trade/BLURT)
 
 ## Indexers
 
-- [Blockfolio.com](https://blockfolio.com/coin/BLURT)
 - [Coincodex.com](https://coincodex.com/crypto/blurt/)
 - [Coingecko.com](https://www.coingecko.com/en/coins/blurt)
-- [CoinJab.com](https://coinjab.com/asset/BLURT)
 - [Coinmarketcap.com](https://coinmarketcap.com/currencies/blurt/)
 - [Coinpaprika.com](https://coinpaprika.com/coin/blurt-blurt/)
-- [Currency.world](https://currency.world/currencies/BLURT)
 - [Livecoinwatch.com](https://www.livecoinwatch.com/price/Blurt-BLURT)
-- [Worldcoinindex.com](https://www.worldcoinindex.com/coin/blurt)
-- [Xangle.io](https://xangle.io/project/BLURT/key-info)
 
 ## Documentation
 
