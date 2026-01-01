@@ -91,7 +91,7 @@ Our next milestone is [Hard Fork 3](https://gitlab.com/blurt/blurt/-/milestones/
 
 - [Hive-engine.com](https://hive-engine.com/?p=market&t=BLURT)
 - [BeeSwap](https://beeswap.dcity.io/swap?input=SWAP.HIVE&output=SWAP.BLURT)
-- [TRIBALDEX](https://tribaldex.com/trade/BLURT)
+- [TRIBALDEX](https://tribaldex.com/trade/SWAP.BLURT)
 
 ## Indexers
 
@@ -105,9 +105,6 @@ Our next milestone is [Hard Fork 3](https://gitlab.com/blurt/blurt/-/milestones/
 ## Documentation
 
 [Developers](doc/devs/README.md)
-
 [Public Nodes](doc/devs/networknodes.md)
-
 [Exchanges](doc/exchanges/README.md)
-
 [Witnesses](doc/witnesses/README.md)
